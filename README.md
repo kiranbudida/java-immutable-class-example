@@ -19,4 +19,4 @@ This Java project demonstrates how to create a custom **immutable class (`Employ
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/java-immutable-class-example.git
+   git clone https://github.com/kiranbudida/java-immutable-class-example.git
